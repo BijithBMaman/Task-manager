@@ -87,3 +87,27 @@
 .task-form button[type="button"]:hover {
   background-color: #7f8c8d;
 }
+
+@media (max-width: 768px) {
+  .task-list {
+    display: block;
+    padding: 10px;
+  }
+
+  .task-item {
+    margin-bottom: 10px;
+  }
+}
+
+@media (min-width: 769px) {
+  .task-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+
+  .task-item {
+    flex: 1 1 calc(33.333% - 20px);
+    box-sizing: border-box;
+  }
+}
