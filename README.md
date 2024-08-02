@@ -2,6 +2,11 @@
 
 A simple task management application built with React.
 
+## Screenshots
+
+![MainPage Screenshot](assests\Screenshot\MainPage.png)
+![Working Screenshot](assests\Screenshot\Working.png)
+
 ## Setup and Run Instructions
 
 1. Clone the repository:
@@ -21,3 +26,5 @@ A simple task management application built with React.
     npm start
 
 5. Open the browser and go to http://localhost:3000.
+
+
