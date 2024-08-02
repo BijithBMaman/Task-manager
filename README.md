@@ -4,8 +4,8 @@ A simple task management application built with React.
 
 ## Screenshots
 
-![MainPage Screenshot](assests\Screenshot\MainPage.png)
-![Working Screenshot](assests\Screenshot\Working.png)
+![MainPage Screenshot](assests/Screenshot/MainPage.png)
+![Working Screenshot](assests/Screenshot/Working.png)
 
 ## Setup and Run Instructions
 
